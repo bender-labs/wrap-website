@@ -62,11 +62,6 @@ module.exports = {
           position: 'right',
         },
         {
-          to: '/FAQ/',
-          label: 'FAQ',
-          position: 'right',
-        },
-        {
           href: 'https://github.com/bender-labs/wrap-dapp',
           label: 'GitHub',
           position: 'right',
