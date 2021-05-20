@@ -56,7 +56,6 @@ module.exports = {
           position: 'right',
           label: 'Docs',
         },
-
         {
           type: 'doc',
           docId: 'intro-faqs',
