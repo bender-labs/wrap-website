@@ -50,15 +50,15 @@ module.exports = {
         src: 'img/logo.png',
       },
       items: [
+        // {
+        //   type: 'doc',
+        //   docId: 'intro',
+        //   position: 'right',
+        //   label: 'Docs',
+        // },
         {
           type: 'doc',
-          docId: 'intro',
-          position: 'right',
-          label: 'Docs',
-        },
-        {
-          type: 'doc',
-          docId: 'intro-faqs',
+          docId: 'wrap-protocol',
           label: 'FAQ',
           position: 'right',
         },

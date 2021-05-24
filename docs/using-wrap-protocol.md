@@ -1,0 +1,70 @@
+# Using the WRAP Protocol
+
+Let's discover **Docusaurus in less than 5 minutes**.
+
+## How do I Wrap ERC-20 tokens into FA2 tokens?
+
+Visit [Wrap](https://app.tzwrap.com/wrap) to start wrapping.
+
+Here’s a guide complete with screenshots to guide you along the way.
+
+Here’s a [video walkthrough](https://www.youtube.com/watch?v=8LpKhUoHNnw) from a community member on how to Wrap ERC-20 tokens to the Tezos blockchain using the Wrap Protocol
+
+
+## Can I use Wrap for tokens from other blockchains?
+
+Currently, the Wrap protocol only supports the wrapping of Ethereum ERC-20 tokens into FA2 tokens for the Tezos blockchain. We will soon release support for wrapping Ethreum’s ERC-721 tokens (popularly known as NFTs) for the Tezos blockchain.
+
+Eventually, the Wrap protocol will deliver decentralized interoperability for cross-chain liquidity across multiple blockchains.
+
+## What happens if I try to unwrap the $WRAP token?
+
+The Wrap token is an ERC20 token wrapped into an FA2 token using the wrap protocol. Yes, you can unwrap the $Wrap token itself. You will have an ERC-20 version of the $Wrap token usable on Ethereum. Please remember that the aim of the Wrap Protocol is to deliver decentralized interoperability for cross-chain liquidity across multiple blockchains.
+
+## I just wrapped some wToken but I can’t find them in my wallet, how long can it take for wTokens to be available?
+
+Wrapping and unwrapping currently take roughly 1 hour.  If the minting operation has been successfully applied, we encourage you to exercise some patience for the wTokens to appear in your wallet. If you can’t find your tokens after an hour, please reach out to us on Discourse or Discord.
+
+## I just unwrapped some wToken but I am not able to release them. How long can it take to release wTokens? 
+
+We are sorry to hear that you are experiencing delays after unwrapping your wTokens. If the minting operation has been successfully applied, we encourage you to exercise some patience while the transaction is completed on the network. Please be reminded that **the release may take approximately 1h (60 Tezos blocks) after initial unwrap.**
+
+## Help the wToken that I wrapped is stuck in the minting stage?
+
+We are sorry to hear that you are experience delays after wrapping your ERC-20 tokens. We encourage you to exercise some patience while the transaction is completed on the network. If you think it is taking longer than expected, please feel free to start a new topic on [community](https://community.benderlabs.io) so that we can collectively as a community figure out the challenge.
+
+## Why should I wrap tokens when I can buy wTokens on Quipuswap?
+
+When you wrap ERC-20 tokens into wTokens (FA2) using the Wrap Protocol, you are eligible to receive a $WRAP token as wrapping rewards.
+
+$WRAPs are distributed weekly to users of Wrap Protocol, an amount of $WRAP You can see the distribution of $WRAP per wToken [here](https://docs.google.com/spreadsheets/d/1jvORLOP2sdbYwmwhMrRcMNYC8QAVoi0nDuAAkQnEszk/edit#gid=0). 
+
+The $WRAP token enables you to participate in the governance of the Wrap Protocol and to share in the economic profit of the Wrap Protocol. $WRAP holders are eligible to receive a part of the wrapping and unwrapping fees paid out in wTokens.
+
+## What are the rewards for wrapping?
+
+When you wrap ERC-20 tokens into FA wTokens, you receive wrapping rewards paid in $WRAPs.
+
+Holders of $WRAP get many benefits such as:
+
+- The nominal value of the $WRAP tokens
+- Eligibility to receive a share of wrapping and unwrapping fees
+- Eligibility for a DAO that can vote on-chain on parameters of the Wrap protocol and change them using BaseDAO
+- Eligibility to vote off-chain on a certain number of topics using Snapshot-like tools.
+
+## Do we get rewarded for wrapping/unwrapping? If so, how's it calculated? 
+
+Yes! Wrap protocol users get rewarded in $WRAPs for wrapping.
+There are NO rewards for unwrapping. 
+
+$WRAP rewards have already been allocated to users who wrap the listed ERC20 tokens into wTokens (FA2). $WRAPs are paid to users weekly on a pro-rated basis of how much wTokens they wrap relative to other users wrapping the same wToken. The more tokens you wrap relative to other users, the more $WRAPs you earn. 
+
+You can find more information on the distribution of $WRAP [here](https://docs.google.com/spreadsheets/d/1jvORLOP2sdbYwmwhMrRcMNYC8QAVoi0nDuAAkQnEszk/edit#gid=874295553). 
+
+## When will rewards exactly be distributed?
+
+Wrapping rewards $Wraps corresponding to one week of wrapping activity will be distributed after 4 weeks. For example, $WRAPs for the week of April 26 will be distributed in the week starting May 24th. 
+
+You can find more information on the distribution of $WRAP [here](https://docs.google.com/spreadsheets/d/1jvORLOP2sdbYwmwhMrRcMNYC8QAVoi0nDuAAkQnEszk/edit#gid=874295553). 
+
+Wrapping and unwrapping fees are distributed weekly through a staking contract. Stake your $WRAP tokens to receive fees generated by the protocol at the prorata of your $WRAP balance and time staked.
