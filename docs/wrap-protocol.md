@@ -18,9 +18,6 @@ You can find the Wrap Protocol’s whitepaper [here](https://uploads-ssl.webflow
 
 To learn more about the Wrap Protocol, please visit [Wrap Blog](https://medium.com/bender-labs)
 
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
-
 ## How can I participate in Wrap Protocol?
 
 Thank you for your interest in joining the Wrap community.

@@ -137,7 +137,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/bender-labs/wrapp-dapp',
+            'https://github.com/bender-labs/wrap-website',
         },
 
         theme: {
