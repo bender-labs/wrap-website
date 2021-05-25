@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Everything you need to know about WRAP protocol
 
 ## Getting Started
 
