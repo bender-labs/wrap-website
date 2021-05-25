@@ -80,9 +80,17 @@ module.exports = {
         {
           title: 'Docs',
           items: [
+            // {
+            //   label: 'Documentation',
+            //   to: '/docs/intro',
+            // },
             {
-              label: 'Documentation',
-              to: '/docs/intro',
+              label: 'FAQs',
+              to: '/docs/wrap-protocol',
+            },
+            {
+              label: 'Whitepaper',
+              href: 'https://uploads-ssl.webflow.com/605b954cee75fc72dfcdf42e/6062c8a1202d848191213859_Wrap%20Protocol%20-%20Whitepaper%20(1).pdf',
             },
           ],
         },
@@ -114,6 +122,14 @@ module.exports = {
             {
               label: 'Bender Labs',
               href: 'https://www.benderlabs.io/',
+            },
+            {
+              label: 'Liquidity',
+              href: 'https://liquidity.tzwrap.com/',
+            },
+            {
+              label: 'Live Stats',
+              href: 'https://info.tzwrap.com/',
             },
             {
               label: 'Blog',
