@@ -13,27 +13,11 @@ module.exports = {
 
     docs: [
         'intro',
-
-        {
-            type: 'category',
-            label: 'Tutorial-basics',
-            items: [
-
-                'tutorial-basics/create-a-blog-post',
-                'tutorial-basics/create-a-document',
-                'tutorial-basics/create-a-page',
-                'tutorial-basics/deploy-your-site',
-                'tutorial-basics/congratulations',
-            ],
-        },
-        {
-            type: 'category',
-            label: 'Tutorial-extras',
-            items: [
-                'tutorial-extras/manage-docs-versions',
-                'tutorial-extras/translate-your-site'
-            ],
-        },
+        'protocol-architecture',
+        'protocol-participants',
+        'tokenomics',
+        'using-wrap-protocol-docs',
+        'use-cases'
 
     ],
     faqs: [
