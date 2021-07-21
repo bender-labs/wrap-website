@@ -17,7 +17,10 @@ module.exports = {
         'protocol-participants',
         'tokenomics',
         'using-wrap-protocol-docs',
-        'use-cases'
+        'use-cases',
+        'governance',
+        'wrap-v2',
+        'community-resources'
 
     ],
     faqs: [

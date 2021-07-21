@@ -10,7 +10,7 @@ Signers watch both blockchains and create and sign relevant transactions for bot
 
 #### Read more on how Wrap Signers Quorum is incentivizing the [Liquidity Program on Wrap Protocol](https://medium.com/bender-labs/announcing-quorum-liquidity-mining-program-901b4f275442)
 
-![picture alt](htttp://hello.com)
+![picture alt](../static/img/docpics/signersQuorum.jpg 'signers quorum infrastructure')
 
 ### Users
 People and entities who use Wrap Protocol to wrap ERC20 tokens into FA2 tokens. Users earn WRAP governance tokens as rewards for wrapping ERC20 tokens into FA2 tokens. Users can stake their WRAPs to farm wTokens on Wrap Protocol. Users also engage in Liquidity ming for wToken/XTZ pairs on Quipuswap.

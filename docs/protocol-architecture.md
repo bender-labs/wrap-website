@@ -2,7 +2,7 @@
 
 Wrap protocol is made up of different components, both on-chain on the Tezos and Ethereum blockchains and off-chain.
 
-![picture alt](http://www.hello.com)
+![picture alt](../static/img/docpics/protocolArchitecture.jpg 'wrap protocol architecture')
 
 ### Ethereum Smart Contracts:
 
