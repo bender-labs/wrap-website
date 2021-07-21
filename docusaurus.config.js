@@ -86,7 +86,7 @@ module.exports = {
             },
             {
               label: 'FAQs',
-              to: '/faqs/wrap-protocol',
+              to: '/docs/wrap-protocol',
             },
             {
               label: 'Whitepaper',
