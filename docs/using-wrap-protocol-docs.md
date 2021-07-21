@@ -2,7 +2,7 @@
 
 ### Wrapping Process
 
-![picture alt](https://hello.com)
+![picture alt](../static/img/docpics/wrappingProcess.jpg)
 
 1)  User allows Deposit contract to spend ABC tokens.
     
@@ -31,7 +31,7 @@ Want a less technical explanation? Check this out: [What is Wrap? Explain it to 
 
 ### Unwrapping Process
 
-![picture alt](https://hello.com)
+![picture alt](../static/img/docpics/unwrappingProcess.jpg)
 
 1)  User wants to unwrap N wABC. User sends a transaction to Minter Contract allowing them to burn (1-y)N wABC from User’s address and pay yN wABC in unwrapping fees, along with an ETH Destination Address.
     
