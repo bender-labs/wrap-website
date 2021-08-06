@@ -559,3 +559,7 @@ details > summary {
 .footer {
   text-decoration: none;
 }
+
+.footer__logo {
+  max-width: 3rem;
+}

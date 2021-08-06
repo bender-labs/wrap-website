@@ -50,12 +50,12 @@ module.exports = {
         src: 'img/logo.png',
       },
       items: [
-        {
+        /*{
           type: 'doc',
           docId: 'intro',
           position: 'right',
           label: 'Docs',
-        },
+        },*/
         {
           type: 'doc',
           docId: 'wrap-protocol',
@@ -80,10 +80,10 @@ module.exports = {
         {
           title: 'Docs',
           items: [
-            {
+            /*{
               label: 'Documentation',
               to: '/docs/intro',
-            },
+            },*/
             {
               label: 'FAQs',
               to: '/docs/wrap-protocol',
@@ -138,15 +138,16 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/bender-labs/',
-            },
-            { 
-              label: 'Defi Pulse',
-              href: 'https://defipulse.com/'
             }
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Bender Labs, Inc. Built with Docusaurus.`,
+      logo: {
+        alt: 'Defi Pulse',
+        src: 'img/defi-pulse.png',
+        href: 'https://defipulse.com/',
+      },
+      copyright: `Built with Docusaurus.`,
     },
   },
   presets: [
