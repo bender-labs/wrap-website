@@ -50,12 +50,12 @@ module.exports = {
         src: 'img/logo.png',
       },
       items: [
-        {
+        /*{
           type: 'doc',
           docId: 'intro',
           position: 'right',
           label: 'Docs',
-        },
+        },*/
         {
           type: 'doc',
           docId: 'wrap-protocol',
@@ -80,10 +80,10 @@ module.exports = {
         {
           title: 'Docs',
           items: [
-            {
+            /*{
               label: 'Documentation',
               to: '/docs/intro',
-            },
+            },*/
             {
               label: 'FAQs',
               to: '/docs/wrap-protocol',
@@ -100,7 +100,7 @@ module.exports = {
 
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/bender_labs',
+              href: 'https://discord.gg/tZf8M89BRe',
             },
             {
               label: 'Discourse',
