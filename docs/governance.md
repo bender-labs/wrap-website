@@ -37,41 +37,41 @@ Proposal cycles are split into two periods:
 #### How a proposal works
 - Step 1: During the proposal period, anyone writes down proposal details and adds a proposal to the list of proposals on Homebase along with a freeze on a certain number of tokens.
 
-- Step 2: When the proposal cycle ends, the voting cycle begins and users vote on supporting or opposing the proposal (votes are a function of staked tokens)
+- Step 2: When the proposal cycle ends, the voting cycle begins and users vote on supporting or opposing the proposal (votes are a function of staked tokens).
 
 - Step 3: For a proposal to pass, the Quorum Threshold must be met and a majority of votes must be supportive. All other outcomes will lead to the failure of a proposal. 
 
 #### DAO Parameters
 The Wrap DAO has specific parameters chosen to make the Wrap DAO on Tezos Homebase a success including: 
 
-- Proposal period duration
-Definition: How long (days) the period where users vote on current proposals lasts.
-Elected Parameter: 7 days
-Justification: We chose a weekly schedule to allow for an easy and fluid workflow and keep things consistent with other Wrap Protocol schedules (e.g distribution).
+##### Proposal period duration
+- Definition: How long (days) the period where users vote on current proposals lasts.
+- Elected Parameter: 7 days
+- Justification: We chose a weekly schedule to allow for an easy and fluid workflow and keep things consistent with other Wrap Protocol schedules (e.g distribution).
 
-- Voting period duration
-Definition: How long (days) the period where users vote on current proposals lasts.
-Elected Parameter: 7 days
-Justification: We chose a weekly schedule to allow for an easy and fluid workflow and keep things consistent with other Wrap Protocol schedules (e.g distribution).
+##### Voting period duration
+- Definition: How long (days) the period where users vote on current proposals lasts.
+- Elected Parameter: 7 days
+- Justification: We chose a weekly schedule to allow for an easy and fluid workflow and keep things consistent with other Wrap Protocol schedules (e.g distribution).
 
-- Required Stake
-Definition: Required stake to be able to make a proposal
-Elected Parameter: 500 $WRAP
-Justification: A proposal fee ensures proposals are legitimate and well thought out
+##### Required Stake
+- Definition: Required stake to be able to make a proposal
+- Elected Parameter: 500 $WRAP
+- Justification: A proposal fee ensures proposals are legitimate and well thought out
 
-- Minimum support to pass
-Definition: The smallest percentage of support necessary for a proposal to be considered passed or accepted
-Elected parameter: 75%
-Justification: Our threshold allows for a large majority of the community to agree on the decision and a limited amount of accepted proposals to ensure follow-through for the ones that are accepted.
+##### Minimum support to pass
+- Definition: The smallest percentage of support necessary for a proposal to be considered passed or accepted
+- Elected parameter: 75%
+- Justification: Our threshold allows for a large majority of the community to agree on the decision and a limited amount of accepted proposals to ensure follow-through for the ones that are accepted.
 
-- Returned stake after proposal rejection
-Definition: The % of tokens returned to the user after his proposal is rejected
-Elected Parameter: 90%
-Justification: We want to disincentivize illegitimate proposals but keep proposals coming!
+##### Returned stake after proposal rejection
+- Definition: The % of tokens returned to the user after his proposal is rejected
+- Elected Parameter: 90%
+- Justification: We want to disincentivize illegitimate proposals but keep proposals coming!
 
-- Quorum Threshold
-Definition: A natural number representing the number of votes required for a proposal to pass (each token staked in vote represents a vote).
-Elected Parameter: 5000 $WRAP
+##### Quorum Threshold
+- Definition: A natural number representing the number of votes required for a proposal to pass (each token staked in vote represents a vote).
+- Elected Parameter: 5000 $WRAP
 
 These parameters are flexible and can be changed through community proposals or at the discretion of the Bender Labs team to ensure the fairness of the governance process.
 
@@ -83,7 +83,7 @@ These parameters are flexible and can be changed through community proposals or 
 A [Discourse Forum](https://community.benderlabs.io/) intended for governance-related discussions.
 Specifically, the governance Discourse for Wrap will serve as a forum to gauge community interest in a proposal and discuss ongoing proposals and their solution. All proposals on Tezos Homebase should link their corresponding post and previous posts initiated on the Wrap Governance Discourse.
 
-#### Categories & Purpose**
+#### Categories & Purpose
 
 #### Heat Checks
 A Heat Check is a post that serves to establish if there is enough will to change the current status quo. All Heat Checks will be titled: "HeatCheck - Name of Proposal" and will be posted along with a corresponding Homebase post for token weighted voting. Should a proposal require the community to vote on a variety of solutions (e.g %fees distributed to WRAP holders), the options should be listed in the Heat Check on Discourse for the community to vote on the Discourse Proposal.
@@ -104,12 +104,13 @@ Monitored entirely by Bender Labs, rules of engagement are laid out ahead of tim
 The Wrap Board is a set of invested Wrap Community Members that share a vision of success for the Wrap Protocol. These members are elected by the Bender Labs Team and invited to be added to a sub-community known as the Wrap Board Committee. Specifically, a Discord channel  will be created to hold discussions internal to the committee. The members of the Wrap Board are a select few meant to represent the larger Wrap Community as well as their own personal voice.
 
 #### What are the objectives of the Wrap Board?
-The primary goal of the Wrap Board is to bring proposals brought up by the community on Homebase to integration.\
+The primary goal of the Wrap Board is to bring proposals brought up by the community on Homebase to integration.
 The Wrap Board will provide an implementation structure for the self-governance of the WrapProtocol by Wrap stakeholders.
 
 #### Wrap Board Voting Process
-The Wrap Board will come together in the form of a systemized voting process to pass community proposals to be integrated.\
-Following a Tezos Homebase voting cycle, on a weekly basis
+The Wrap Board will come together in the form of a systemized voting process to pass community proposals to be integrated.
+
+Following a Tezos Homebase voting cycle, on a weekly basis:
 
 * Wrap Board Members will begin their voting cycle and vote to elect the proposal(s) supported during the previous Tezos Homebase voting cycle they would like to see implemented to amend the Wrap Protocol.
 
@@ -134,23 +135,27 @@ The Wrap Board will initially begin with 11 members, all of which will at first 
 
 The first member (1) of the Wrap Board will be Hugo Renaudin, the founder of Bender Labs and the Wrap Protocol:
 * Hugo Renaudin 
+
 Hugo's voice is not a necessary requirement for a proposal to pass but he can step into the voting process should he deem it necessary to do so.
 
 
 The second member (1) of the Wrap Board will be one of the main developers of the Wrap Protocol:
 * Charles Couillard 
-Having a main dev as a voice in the Wrap Protocol allows for a technical perspective on solutions proposed by the Wrap Board
+
+Having a main dev as a voice in the Wrap Protocol allows for a technical perspective on solutions proposed by the Wrap Board.
 
 
 The next two members (2) of the Wrap Board will be two members of the Signers Quorum elected by the Bender Labs Team.
 * Quorum member A
 * Quorum member B 
+
 These members are key to the Wrap Board as they will help to give perspectives on technical implementations and are at the heart of the protocol.
 
 
 The third and fourth members (2) of the Wrap Board will be the Bender Labs Community team, specifically:
 * Alex Arriaga
 * Stanislas Motte 
+
 This allows Bender Labs to keep an important presence and say in the decisions made by the Wrap Board. These two members are subject to change internally based on the current leaders of the Community Team at Bender Labs.
 
 
@@ -173,7 +178,7 @@ The Wrap Board will hold a board member vote on a quarterly basis where Wrap Boa
 Certain members of the Wrap Board including:
 
 * Hugo Renaudin
-* Bender Main Dev 
+* Bender Labs Main Dev 
 * Bender Labs Community Team member 1 
 * Bender Labs Community Team member 2
 
@@ -211,9 +216,8 @@ Exclusive content, merchandise, and giveaways will be held to reward Wrap Board 
 - Bender Labs NFTs
 - Official Bender Labs merchandise
 - Participation rewards
-- If you have been elected as a Wrap Board Committee member, make sure to lookout for these!
 
-
+If you have been elected as a Wrap Board Committee member, make sure to lookout for these!
 
 ### Proposal Process
 
@@ -221,11 +225,9 @@ Exclusive content, merchandise, and giveaways will be held to reward Wrap Board 
 The Heat Check is meant to gauge the interest of the community on a certain topic.
 During the proposal phase on Tezos Homebase, anyone can:
 
-1. Submit a Temperature Check Post on Discourse
+1.  Post a Heat Check post on the BenderLabs Discourse titled “Heat Check: Proposal Title” to ask a general non-bias questions and explain the reasoning proposal as well as potential solutions.
 
-2. Post a Heat Check post on the BenderLabs Discourse titled “Heat Check: Proposal Title” to ask a general non-bias questions and explain the reasoning proposal as well as potential solutions.
-
-3. Submit a corresponding Proposal on Tezos Homebase with a link to the Discourse post to allow the community to vote. Should Quorum Threshold (WRAP) and Minimum Support (%) be met, the Proposal will go through to the next stage.
+2. Submit a corresponding Proposal on Tezos Homebase with a link to the Discourse post to allow the community to vote. Should Quorum Threshold (WRAP) and Minimum Support (%) be met, the Proposal will go through to the next stage.
 
 Heat Check Guidelines:
 - Heat Checks are part of the first stage of the proposal process and are meant only to measure the interest of community members on the specific proposal. 
@@ -240,8 +242,6 @@ The Proposal Discussion is meant to formalize the Temperature Check by providing
 During a proposal phase on Tezos Homebase, the author of the corresponding temperature check can:
 
 1. Submit a Proposal Discussion post on Discourse
-
-2. Post a Proposal Discussion post on Provide a clear implementable solution
 
 3. Submit a corresponding Tezos Homebase Proposal with link to Discourse Proposal Discussion and previous Heat Check Discourse and Tezos Homebase proposal. Should Quorum Threshold and Minimum Support (%) be met, the Proposal will go through to the next stage.
 
@@ -262,4 +262,7 @@ During every voting cycle on Tezos Homebase, The Wrap Board committee will:
 Should a solution implemented internally be sufficient, the result of the implementation will be announced directly to the community through the Governance Proposal post on Discourse.
 
 Should an external dev solution be required, devs will be rewarded on a first come first serve basis with reward voted on by Wrap Board.
+
+#### Closing
+The documentation above is subject to change
 
