@@ -45,19 +45,19 @@ Proposal cycles are split into two periods:
 The Wrap DAO has specific parameters chosen to make the Wrap DAO on Tezos Homebase a success including: 
 
 ##### Proposal period duration
-- Definition: How long (days) the period where users vote on current proposals lasts.
+- Definition: How long (days) the period where users vote on current proposals lasts
 - Elected Parameter: 7 days
 - Justification: We chose a weekly schedule to allow for an easy and fluid workflow and keep things consistent with other Wrap Protocol schedules (e.g distribution).
 
 ##### Voting period duration
-- Definition: How long (days) the period where users vote on current proposals lasts.
+- Definition: How long (days) the period where users vote on current proposals lasts
 - Elected Parameter: 7 days
 - Justification: We chose a weekly schedule to allow for an easy and fluid workflow and keep things consistent with other Wrap Protocol schedules (e.g distribution).
 
 ##### Required Stake
 - Definition: Required stake to be able to make a proposal
 - Elected Parameter: 500 $WRAP
-- Justification: A proposal fee ensures proposals are legitimate and well thought out
+- Justification: A proposal fee ensures proposals are legitimate and well thought out.
 
 ##### Minimum support to pass
 - Definition: The smallest percentage of support necessary for a proposal to be considered passed or accepted
@@ -70,7 +70,7 @@ The Wrap DAO has specific parameters chosen to make the Wrap DAO on Tezos Homeba
 - Justification: We want to disincentivize illegitimate proposals but keep proposals coming!
 
 ##### Quorum Threshold
-- Definition: A natural number representing the number of votes required for a proposal to pass (each token staked in vote represents a vote).
+- Definition: Natural number representing the number of votes required for a proposal to pass (each token staked represents a vote)
 - Elected Parameter: 5000 $WRAP
 
 These parameters are flexible and can be changed through community proposals or at the discretion of the Bender Labs team to ensure the fairness of the governance process.
@@ -127,7 +127,7 @@ Following a Tezos Homebase voting cycle, on a weekly basis:
 
 * Integration: Should the testing phase be successful the changes will be made to the Protocol. The developer will be rewarded for his efforts in the form of WRAP tokens according to the preset bounty on a first solution first serve basis along with the initial author of the proposal.
 
-Should an external developer not be necessary for the proposal to go through, the proposal will be handled by the Bender Labs team, and any WRAP token reward will be disbursed only to the author of the proposal 
+Should an external developer not be necessary for the proposal to go through, the proposal will be handled by the Bender Labs team, and any $WRAP reward will be disbursed only to the author of the proposal 
 
 
 #### Wrap Board Members
@@ -156,7 +156,7 @@ The third and fourth members (2) of the Wrap Board will be the Bender Labs Commu
 * Alex Arriaga
 * Stanislas Motte 
 
-This allows Bender Labs to keep an important presence and say in the decisions made by the Wrap Board. These two members are subject to change internally based on the current leaders of the Community Team at Bender Labs.
+The Community Team members interact with the community daily and know the community well. These two members are subject to change internally based on the current leaders of the Community Team at Bender Labs.
 
 
 Lastly, the Wrap Community Wrap Board members (5) are elected by the Bender Labs Community Team at first according to their interest and commitment to the Wrap Protocol.
@@ -209,7 +209,7 @@ A Wrap Board member deemed inactive or a nuisance to the committee by the Bender
 Warnings will be issued before such an event can happen.
 
 #### Board Benefits
-Wrap Board Committee members are extremely valuable to Wrap Governance and the Wrap Protocol more generally!
+Wrap Board Committee members are extremely valuable to Wrap Governance and the Wrap Protocol!
 Exclusive content, merchandise, and giveaways will be held to reward Wrap Board members for their efforts to ameliorate the protocol in the form of:
 
 - WRAP token rewards
@@ -264,5 +264,5 @@ Should a solution implemented internally be sufficient, the result of the implem
 Should an external dev solution be required, devs will be rewarded on a first come first serve basis with reward voted on by Wrap Board.
 
 #### Closing
-The documentation above is subject to change
+Thanks for reading our Governance documentation. Please note that this documentation is subject to change.
 
