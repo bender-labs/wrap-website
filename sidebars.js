@@ -12,15 +12,15 @@
 module.exports = {
 
     docs: [
-        'intro',
+        /*'intro',
         'protocol-architecture',
         'protocol-participants',
         'tokenomics',
         'using-wrap-protocol-docs',
-        'use-cases',
-        'governance',
+        'use-cases',*/
+        'governance'/*,
         'wrap-v2',
-        'community-resources'
+        'community-resources'*/
 
     ],
     faqs: [

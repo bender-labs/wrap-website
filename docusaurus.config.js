@@ -50,12 +50,12 @@ module.exports = {
         src: 'img/logo.png',
       },
       items: [
-        /*{
+        {
           type: 'doc',
-          docId: 'intro',
+          docId: 'governance',
           position: 'right',
           label: 'Docs',
-        },*/
+        },
         {
           type: 'doc',
           docId: 'wrap-protocol',
@@ -80,10 +80,10 @@ module.exports = {
         {
           title: 'Docs',
           items: [
-            /*{
+            {
               label: 'Documentation',
-              to: '/docs/intro',
-            },*/
+              to: '/docs/governance',
+            },
             {
               label: 'FAQs',
               to: '/docs/wrap-protocol',
