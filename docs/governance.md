@@ -17,25 +17,24 @@ The Bender Labs [Discourse Forum](https://community.benderlabs.io/) held for Ben
 
 #### The Wrap Board
 The Wrap Board is a set of 11 important stakeholders of the Wrap Protocol that will materialize proposals supported by the community by implementing solutions and amendments to Wrap Protocol.
-These four elements come together to form a systemized proposal, voting and implementation and create the Wrap DAO.
+
+These four elements come together to form a systemized proposal, voting and implementation process to create the Wrap DAO.
 
 
 
 ### Wrap DAO on Tezos Homebase
 
-The Wrap DAO needs a platform where users can vote on proposals to amend the protocol. On Tezos, the best place to do this is Tezos Homebase. 
+The Wrap DAO needs a platform where users can vote on proposals to amend the protocol. On Tezos, the best place to do this is [Tezos Homebase](https://tezos-homebase.io/). 
 
-The Tezos Homebase app was built by TQ Tezos to create governance structures on Tezos.
-
-#### Proposal Framework
+#### Proposal Framework on Homebase
 A proposal can be simple like transferring funds to an address or creating an entirely new set of rules for the protocol. 
 Proposal cycles are split into two periods:
 
-1. Proposal period where users who stake assets submit their proposals for the protocol
+1. Proposal period where users can stake assets to submit their proposals for the protocol
 2. A voting period where voters who have staked assets vote to support or oppose a proposal
 
 #### How a proposal works
-- Step 1: During the proposal period, anyone writes down proposal details and adds a proposal to the list of proposals on Homebase along with a freeze on a certain number of tokens.
+- Step 1: During the proposal period, anyone authors and adds a proposal to the list of proposals on Homebase along with a freeze on a certain number of tokens.
 
 - Step 2: When the proposal cycle ends, the voting cycle begins and users vote on supporting or opposing the proposal (votes are a function of staked tokens).
 
@@ -80,7 +79,7 @@ These parameters are flexible and can be changed through community proposals or 
 ### Wrap Governance Discourse
 
 #### What is the Wrap Governance Discourse?
-A [Discourse Forum](https://community.benderlabs.io/) intended for governance-related discussions.
+A [Discourse forum](https://community.benderlabs.io/) intended for governance-related discussions.
 Specifically, the governance Discourse for Wrap will serve as a forum to gauge community interest in a proposal and discuss ongoing proposals and their solution. All proposals on Tezos Homebase should link their corresponding post and previous posts initiated on the Wrap Governance Discourse.
 
 #### Categories & Purpose
@@ -92,9 +91,11 @@ A Heat Check is a post that serves to establish if there is enough will to chang
 A Proposal Discussion follows a Heat Check. A Proposal Discussion allows for the formalization of a solution to previous posts. All Proposal Discussion posts will be titled: "Proposal Discussion - Name of proposal" and will be posted along with a corresponding Homebase post for token weighted voting. All Proposal Discussions on Discourse and Homebase should link their preceding Heat Check on Discourse and corresponding Homebase Proposal, should they fail to do so they will be deleted by the moderators. All developers with the technical solutions they propose should link their code to the Proposal Discussion on Homebase and Discourse. 
 
 #### Governance Proposal 
-A Governance Proposal, is used for Wrap Board Committee members to announce the implemented solution if already implemented or outsource the solution to External Devs in exchange for WRAP rewards. All links to previous posts and proposals will be linked in the Governance Proposal.
+A Governance Proposal, is used for Wrap Board Committee members to announce the implemented solution if already implemented or outsource the solution to external developers in exchange for WRAP rewards. All links to previous posts and proposals will be linked in the Governance Proposal.
 
-Monitored entirely by Bender Labs, rules of engagement are laid out ahead of time and Bender Labs Community team monitors the board entirely. These three categories fit into the proposal Process outlined below in this document. 
+Monitored entirely by Bender Labs, the rules of engagement on the Discourse forum are laid out ahead of time and Bender Labs Community team monitors the board entirely. 
+
+These three categories fit into the proposal Process outlined below in this document. 
 
 
 
@@ -108,7 +109,7 @@ The primary goal of the Wrap Board is to bring proposals brought up by the commu
 The Wrap Board will provide an implementation structure for the self-governance of the WrapProtocol by Wrap stakeholders.
 
 #### Wrap Board Voting Process
-The Wrap Board will come together in the form of a systemized voting process to pass community proposals to be integrated.
+The Wrap Board will come together in the form of a systemized voting process to integrate community proposals.
 
 Following a Tezos Homebase voting cycle, on a weekly basis:
 
@@ -186,6 +187,8 @@ cannot be voted out of the Wrap Board by community members.
 
 Two Quorum members must also be present in the Wrap Board at all times, although the Quorum members can change.
 
+All Wrap Community Wrap Board members (5) are subject to change during during this vote.
+
 
 #### Wrap Community Member Election
 Wrap Community Members of the Wrap Board will be elected on a quarterly basis.
@@ -221,19 +224,23 @@ If you have been elected as a Wrap Board Committee member, make sure to lookout 
 
 ### Proposal Process
 
+In general, a community member with an idea for Wrap Protocol can follow the following process to allow the community to vote and bring his idea to implementation.
+
 #### Stage 1: Heat Check - Discourse & Homebase
 The Heat Check is meant to gauge the interest of the community on a certain topic.
 During the proposal phase on Tezos Homebase, anyone can:
 
-1.  Post a Heat Check post on the BenderLabs Discourse titled “Heat Check: Proposal Title” to ask a general non-bias questions and explain the reasoning proposal as well as potential solutions.
+1.  Post a Heat Check post on the BenderLabs Discourse titled “Heat Check: Proposal Title” to ask a general non-bias question and explain the reasoning proposal as well as potential solutions.
 
-2. Submit a corresponding Proposal on Tezos Homebase with a link to the Discourse post to allow the community to vote. Should Quorum Threshold (WRAP) and Minimum Support (%) be met, the Proposal will go through to the next stage.
+2. Submit a corresponding Proposal on Tezos Homebase with a link to the Discourse post to allow the community to vote. Should Quorum Threshold ($WRAP) and Minimum Support (%) be met, the Proposal will go through to the next stage.
 
 Heat Check Guidelines:
 - Heat Checks are part of the first stage of the proposal process and are meant only to measure the interest of community members on the specific proposal. 
 - Community members are encouraged to discuss Heat Checks and alternative solutions on the Discourse.
 - Should the author of the proposal have multiple potential solutions, they may run polls on the Discourse to determine the community’s preferred outcome.
-- Should the author be able to implement code for the solution themself, they may make the community aware of that in this post. Members who pass the first stage will be awarded status as a proposer.
+- Should the author be able to implement code for the solution themself, they may make the community aware of that in this post. 
+
+Members who pass the first stage will be awarded status as a successful author of a proposal.
 
 
 **Stage 2: Proposal Discussion - Discourse & Homebase**
@@ -243,12 +250,12 @@ During a proposal phase on Tezos Homebase, the author of the corresponding tempe
 
 1. Submit a Proposal Discussion post on Discourse
 
-3. Submit a corresponding Tezos Homebase Proposal with link to Discourse Proposal Discussion and previous Heat Check Discourse and Tezos Homebase proposal. Should Quorum Threshold and Minimum Support (%) be met, the Proposal will go through to the next stage.
+2. Submit a corresponding Tezos Homebase Proposal with link to Discourse Proposal Discussion and previous Heat Check Discourse and Tezos Homebase proposal. Should Quorum Threshold and Minimum Support (%) be met, the Proposal will go through to the next stage.
 
 Proposal Discussion Guidelines:
 - Proposal Discussions are meant to propose a community proposal along with an exact implementable solution should the proposal be supported.
-- Wrap Community members are encouraged to to discuss Proposal Discussions
-- An iteration of a Proposal Discussion discussing the same premise with a slightly different solution can be made directly without need for a new Heat Check if the correctly links are provided in the proposal and Discourse post.
+- Wrap Community members are encouraged to discuss Proposal Discussions
+- An iteration of a Proposal Discussion discussing the same premise with a slightly different solution can be made directly without need for a new Heat Check if the correct links are provided in the Proposal and Discourse post.
 
 **Stage 3: Wrap Board Implementation**
 During every voting cycle on Tezos Homebase, The Wrap Board committee will:
@@ -264,5 +271,10 @@ Should a solution implemented internally be sufficient, the result of the implem
 Should an external dev solution be required, devs will be rewarded on a first come first serve basis with reward voted on by Wrap Board.
 
 #### Closing
-Thanks for reading our Governance documentation. Please note that this documentation is subject to change.
+
+That's it for now for the Wrap DAO!
+
+Thanks for reading our Governance documentation!
+
+Please be advised that this documentation is subject to change and iterations of the Wrap DAO will be made. We welcome your suggestions!
 
