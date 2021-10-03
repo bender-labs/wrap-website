@@ -1,4 +1,4 @@
-# **Wrap Governance**
+# Wrap Governance
 
 ## Overview
 
@@ -10,23 +10,20 @@ The Wrap DAO leverages four key elements to allow Wrap stakeholders to govern th
 
 <br />
 
-### **1. $WRAP**
+### 1. $WRAP
 
 $WRAP is the governance token of the Wrap Protocol. It will be required to author a proposal and vote on proposals through Tezos Homebase.
-
 <br />
 
-### **2. Tezos Homebase**
+### 2. Tezos Homebase
 Tezos Homebase is an on-chain platform where Wrap stakeholders will voice and vote on their proposals. Tezos Homebase leverages the BaseDAO smart contract framework to create a similar environment to platforms like snapshot on Tezos.
-
 <br />
 
-### **3. Wrap Governance Discourse**
+### 3. Wrap Governance Discourse
 The Bender Labs [Discourse Forum](https://community.benderlabs.io/) held for Bender Labs discussions including Wrap Governance. This is a place where stakeholders will outline, explain and discuss proposals posted on Tezos Homebase. This Discourse is owned by the Wrap Community and will be monitored directly by the Bender Labs Community Team.
-
 <br />
 
-### **4. The Wrap Board**
+### 4. The Wrap Board
 The Wrap Board is a set of 11 important stakeholders of the Wrap Protocol that will materialize proposals supported by the community by implementing solutions and amendments to Wrap Protocol.
 
 These four elements come together to form a systemized proposal, voting and implementation process to create the Wrap DAO.
@@ -36,7 +33,7 @@ These four elements come together to form a systemized proposal, voting and impl
 <br />
 
 
-# $WRAP: Governance Token 
+## $WRAP: Governance Token 
 
 **$WRAP** is the governance token of the Wrap Protocol. 
 
@@ -50,13 +47,13 @@ To get $WRAP, one can visit [Quipuswap](https://quipuswap.com/swap?from=tez&to=K
 <br />
 <br />
 
-# Wrap DAO on Tezos Homebase
+## Wrap DAO on Tezos Homebase
 
 The Wrap DAO needs a platform where users can use $WRAP tokens to vote on proposals to amend the protocol. On Tezos, the best place to do this is [Tezos Homebase](https://tezos-homebase.io/).
 
 <br />
 
-### **Proposal Framework on Homebase**
+### Proposal Framework on Homebase
 
 A proposal can be as simple as changing a website improvement or creating an entirely new set of rules for the protocol.
 
@@ -68,7 +65,7 @@ Proposal cycles are split into two periods on Homebase:
 
 <br />
 
-### **How a proposal works**
+### How a proposal works
 
 - Step 1
   - During the proposal period, anyone authors and adds a proposal to the list of proposals on Homebase along with a freeze on a certain number of tokens.
@@ -81,7 +78,7 @@ Proposal cycles are split into two periods on Homebase:
    
 <br />
 
-### **DAO Parameters**
+### DAO Parameters
 
 The Wrap DAO has specific parameters chosen to make the Wrap DAO on Tezos Homebase a success:
 
@@ -129,9 +126,11 @@ These parameters are flexible and can be changed through community proposals or 
 <br />
 <br />
 
-# Wrap Governance Discourse
+## Wrap Governance Discourse
 
-## What is the Wrap Governance Discourse?
+<br />
+
+### What is the Wrap Governance Discourse?
 The Governance Discourse is a [Discourse forum](https://community.benderlabs.io/) intended for governance-related discussions.
 
 Specifically, the governance Discourse for Wrap will serve as a forum to gauge community interest in a proposal and discuss ongoing proposals and their solution.
@@ -140,11 +139,11 @@ All proposals on Tezos Homebase should link their corresponding post and previou
 
 <br />
 
-## Wrap Governance Categories
+### Wrap Governance Categories
 
 <br />
 
-### **Heat Checks**
+### Heat Checks
 A Heat Check is a post that serves to establish if there is enough will to change the current status quo.
 
  **All Heat Checks will be titled: "HeatCheck - [Name of Proposal]" and will be posted along with a corresponding Homebase post for token weighted voting**.
@@ -155,7 +154,7 @@ Any Heat Checks that do not match the criteria set above will have to be removed
 
 <br />
 
-### **Proposal Discussion**
+### Proposal Discussion
 A Proposal Discussion follows a Heat Check.
 
 A Proposal Discussion allows for the formalization of a solution to previous posts.
@@ -168,7 +167,7 @@ All Proposal Discussions on Discourse **must** link their preceding Heat Check o
 
 All developers with the technical solutions they propose should link their code to the Proposal Discussion on Homebase and Discourse.
 
-### **Governance Proposal**
+### Governance Proposal
 A Governance Proposal, is created by Wrap Board following a successful Heat Check, Proposal Discussion and Wrap Board vote. It is used to announce the solution that was implemented or outsource the solution to external developers in exchange for $WRAP rewards. All links to previous posts and proposals will be linked in the Governance Proposal.
 
 Monitored entirely by Bender Labs, the rules of engagement on the Discourse forum are laid out ahead of time and Bender Labs Community team monitors the board entirely.
@@ -179,9 +178,9 @@ These three categories fit into the proposal Process outlined below in this docu
 <br />
 <br />
 
-# The Wrap Board
+## The Wrap Board
 
-### **What is the Wrap Board?**
+### What is the Wrap Board?
 The Wrap Board is a set of invested Wrap Community Members that share a vision of success for the Wrap Protocol. 
 
 These members are elected by the Bender Labs Team and invited to be added to a sub-community known as the Wrap Board Committee.
@@ -383,4 +382,3 @@ That's all you need to know about the Wrap DAO!
 Join us in building decentralized governance on Tezos DeFi by submitting your proposals!
 
 Please be advised that this documentation is subject to change and iterations of the Wrap DAO will be made. We welcome your suggestions!
-
