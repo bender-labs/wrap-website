@@ -12,7 +12,7 @@ The Wrap DAO leverages four key elements to allow Wrap stakeholders to govern th
 
 ### 1. $WRAP
 
-$WRAP is the governance token of the Wrap Protocol. It will be required to author a proposal and vote on proposals through our DAO hosted on [Tezos Homebase](https://tezos-homebase.netlify.app/)
+$WRAP is the governance token of the Wrap Protocol. It will be required to author a proposal and vote on proposals through our DAO hosted on [Tezos Homebase](https://tezos-homebase.io/)
 
 ### 2. Tezos Homebase
 Tezos Homebase is an on-chain platform where Wrap stakeholders will voice and vote on their proposals. Tezos Homebase leverages the BaseDAO smart contract framework to create a similar environment to platforms like snapshot on Tezos.
@@ -34,7 +34,7 @@ These four elements come together to form a systemized proposal, voting and impl
 
 It's distribution schedule and it's allocation is [public and documented](https://docs.google.com/spreadsheets/d/1jvORLOP2sdbYwmwhMrRcMNYC8QAVoi0nDuAAkQnEszk/edit#gid=0) by the Bender Labs team.
 
-$WRAP will allow users to vote on proposals through [Tezos Homebase](https://tezos-homebase.netlify.app/) and express their views on changes suggested by the community.
+$WRAP will allow users to vote on proposals through [Tezos Homebase](https://tezos-homebase.io/) and express their views on changes suggested by the community.
 
 To get $WRAP, one can visit [Quipuswap](https://quipuswap.com/swap?from=tez&to=KT1LRboPna9yQY9BrjtQYDS1DVxhKESK4VVd_0) or [Plenty](https://www.plentydefi.com/swap?from=PLENTY&to=WRAP) and buy $WRAP directly, or wrap tokens onto Tezos using [Wrap Protocol](https://app.tzwrap.com/wrap)!
 
