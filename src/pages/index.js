@@ -55,6 +55,10 @@ const HomePlace = () => {
 
 
   return (
+      <div>
+        <div style={{ textAlign: 'center' }} className="plenty">
+            WRAP Protocol bridge will be integrated into the <a target="_blank" rel={'noreferrer'} href="https://www.plentydefi.com/">Plenty</a> platform in the next few weeks. Read the <a target="_blank" rel={'noreferrer'} href="https://medium.com/plenty-defi/bridge-update-wrapped-assets-migration-plan-d9814d727cff">migration plan</a>.
+        </div>
       <PlaceContainer>
         <Logo img_src={`${baseUrl}img/logo.png`} />
         <div className="inner">
@@ -64,6 +68,7 @@ const HomePlace = () => {
           </div>
         </div>
       </PlaceContainer>
+      </div>
   )
 
 }
